@@ -5,28 +5,7 @@ Retail Data Deep Dive: Customer, Sales & Marketing Analysis
 Overview
 This project presents a comprehensive end-to-end data analysis of a retail e-commerce dataset, inspired by D-Mart’s business model. The goal is to extract actionable insights from customer, sales, product, payment, and marketing data using Python and popular data science libraries. The analysis covers data cleaning, preprocessing, exploratory data analysis (EDA), feature engineering, visualization, and business recommendations.
 
-Table of Contents
-Project Objectives
 
-Dataset
-
-Key Questions & Insights
-
-Methodology
-
-Key Findings
-
-How to Run
-
-Project Structure
-
-Technologies Used
-
-Business Recommendations
-
-Sample Visualizations
-
-Contact
 
 Project Objectives
 Clean and preprocess raw retail transaction data for robust analysis.
