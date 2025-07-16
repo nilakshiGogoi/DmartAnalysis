@@ -62,17 +62,6 @@ Business Insights & Recommendations
 Interpreted findings in a business context
 Suggested actionable strategies
 
-Key Findings
-Balanced Gender Mix: Male and female customers are nearly equal, supporting gender-neutral campaigns.
-Top Spending Age Groups: 30–45-year-olds drive the majority of high-value purchases.
-Loyalty Drives Revenue: Top 20% of customers contribute over 35% of revenue.
-Sales Peaks: December, May, and August are high-volume months, likely due to seasonality and promotions.
-Tier-1 City Dominance: Mumbai, Hyderabad, and other metros account for ~60% of sales.
-Product Insights: Branded and imported products dominate high-value orders; local products see lower spend.
-Payment Patterns: Credit and debit cards account for 80% of payments; digital buyers spend more per order.
-Marketing ROI: Social/email campaigns yield higher site engagement and conversion than display ads.
-Engagement Matters: More clicks and time on site correlate with higher order value.
-
 Project Structure
 text
 retail-data-deep-dive/
@@ -92,25 +81,6 @@ NumPy (numerical operations)
 Matplotlib & Seaborn (visualization)
 Jupyter Notebook (optional, for interactive analysis)
 
-Business Recommendations
-Target high-value and loyal customers with exclusive offers and retention programs.
-Focus marketing spend on peak sales months and Tier-1 cities for maximum ROI.
-Bundle top repeat products and branded items to increase basket size.
-Optimize pricing and discount strategy for imported and high-MRP products.
-Promote digital payments and subscriptions for higher order values.
-Refine marketing channels by investing more in social/email and A/B testing underperforming sources.
-
-Sample Visualizations
-
-Customer Age Group Spend Distribution
-
-Monthly Sales Trends
-
-RFM Customer Segmentation Heatmap
-
-Top Products by Repeat Orders
-
-Payment Method vs. Average Order Value
 
 Contact
 Author: Nilakshi Gogoi
